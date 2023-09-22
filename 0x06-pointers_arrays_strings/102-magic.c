@@ -1,9 +1,5 @@
 #include <stdio.h>
-/**
- * main - Entry point
- * Description: 'a program prints a[2] = 98 followed by a new line'
- * Return: Always 0 (Success)
- */
+
 int main(void)
 {
   int n;
@@ -25,8 +21,3 @@ int main(void)
   printf("a[2] = %d\n", a[2]);
   return (0);
 }
-~
-~
-~
-~
-~
