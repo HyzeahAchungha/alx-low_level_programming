@@ -1,10 +1,10 @@
-
 #include <stdio.h>
 /**
- * main - Entry point
- * Description: 'a program prints a[2] = 98, followed by a new line'
- * Return: Always 0 (Success)
- */
+* main - Entry point
+* Description: 'a program that prints a[2] = 98, followed by a new line'
+* Return: Always 0 (Success)
+*/
+
 int main(void)
 {
 int n;
@@ -26,3 +26,8 @@ p = &n;
 printf("a[2] = %d\n", a[2]);
 return (0);
 }
+~
+~
+~
+~
+~
